@@ -3,12 +3,12 @@ Social media using PHP
 
 
 ## Components
-1 Languages
-2 PHP 
-3 SQL 
-4 JavaScript 
-5 HTML5
-6 CSS3
+      1 Languages
+      2 PHP 
+      3 SQL 
+      4 JavaScript 
+      5 HTML5
+      6 CSS3
 
 ## Modules and function 
 
