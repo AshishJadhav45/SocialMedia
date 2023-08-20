@@ -1,3 +1,5 @@
+![Uploading Screenshot (245).png…]()
+![Uploading Screenshot (244).png…]()
 ## SocialMedia
 Social media using PHP 
 
@@ -22,8 +24,7 @@ Social media using PHP
       Events Management System
 
 # User Interface
-![Uploading Screenshot (239).png…]()
-![Uploading Screenshot (238).png…]()
-![Screenshot (245)](https://github.com/AshishJadhav45/SocialMedia/assets/77589461/61f2a501-3c39-4749-85a7-83c0ecb2c1f2)
-![Uploading Screenshot (240).png…]()
+![Uploading Screenshot (243).png…]()
+![Uploading Screenshot (241).png…]()
+
 
