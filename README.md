@@ -1,5 +1,3 @@
-![Uploading Screenshot (245).png…]()
-![Uploading Screenshot (244).png…]()
 ## SocialMedia
 Social media using PHP 
 
@@ -26,5 +24,6 @@ Social media using PHP
 # User Interface
 ![Uploading Screenshot (243).png…]()
 ![Uploading Screenshot (241).png…]()
-
+![Uploading Screenshot (245).png…]()
+![Uploading Screenshot (244).png…]()
 
