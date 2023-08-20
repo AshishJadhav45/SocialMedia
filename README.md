@@ -23,9 +23,11 @@ Social media using PHP
 
 
 # User Interface
-![Uploading Screenshot (241).png…]()
-![Uploading Screenshot (245).png…]()
-![Uploading Screenshot (244).png…]()
+
+![Screenshot (241)](https://github.com/AshishJadhav45/SocialMedia/assets/77589461/726b61fe-f5bd-4336-8ff9-24a5b77617e1)
+![Screenshot (243)](https://github.com/AshishJadhav45/SocialMedia/assets/77589461/41b39ae0-e4a0-4360-988c-74f89f4c8aeb)
+![Screenshot (244)](https://github.com/AshishJadhav45/SocialMedia/assets/77589461/968c191f-e655-4d7e-946e-8b9a65b7837c)
+![Screenshot (245)](https://github.com/AshishJadhav45/SocialMedia/assets/77589461/4a682cad-452b-4602-bed8-9efd049ac88c)
 
 
 
